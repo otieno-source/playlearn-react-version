@@ -1,0 +1,51 @@
+/* Main container */
+.home {
+    padding: 20px;
+    background-color: #f0f0f0; /* Light background color for the home section */
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Styling for Paragraphs */
+  .para1, .para2, .para3, .para4, .para5, .para6 {
+    height: 250px; /* Set the height of each paragraph */
+    display: flex;
+    justify-content: center; /* Center the text horizontally */
+    align-items: center; /* Center the text vertically */
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-align: center; /* Center the text inside the paragraph */
+    border-radius: 8px; /* Rounded corners */
+  }
+  
+  /* Different background colors for each paragraph */
+  .para1 {
+    background-color: #FF6F61; /* Modern coral red */
+    color: #ffffff; /* White text for contrast */
+  }
+  
+  .para2 {
+    background-color: #FFEB3B; /* Bright yellow */
+    color: #333333; /* Dark text for readability */
+  }
+  
+  .para3 {
+    background-color: #4CAF50; /* Bright green */
+    color: #ffffff; /* White text */
+  }
+  
+  .para4 {
+    background-color: #00BCD4; /* Bright cyan */
+    color: #ffffff; /* White text */
+  }
+  
+  .para5 {
+    background-color: #FF5722; /* Vibrant orange */
+    color: #ffffff; /* White text */
+  }
+  
+  .para6 {
+    background-color: #9C27B0; /* Bright purple */
+    color: #ffffff; /* White text */
+  }
+  
